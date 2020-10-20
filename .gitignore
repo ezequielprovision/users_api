@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+users_test.csv
+ids_test.json
+settings.json
+users.csv
+users.db
